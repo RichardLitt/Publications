@@ -1,5 +1,9 @@
 """
-Oliphaunt creates an initial population of random agents with and evolves this
+All code by Richard Littauer.
+Under no copyright whatsoever.
+Written: Spring, 2010. 
+
+Oliphant (1996) creates an initial population of random agents with and evolves this
 population over a number of generations, printing total fitness at each
 generation. Fitness is calculated after a certain number of random interactions
 among the population and is determined by the proportion of successful 'sends' 
